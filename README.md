@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Sajan-Optimal-AI
 - 👀 I’m interested in Data Engineering towards AI
 - 🌱 I’m currently learning ML and DL on python 
-- 💞️ I’m looking to collaborate on Space AI Applications
+- 💞️ I’m looking to collaborate on Advanced AI techniques
 - 📫 Reach me via sssajanaero89@gmail.com
 
 <!---
